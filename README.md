@@ -1,6 +1,13 @@
+![](https://komarev.com/ghpvc/?username=mayurnigade)
 <h1 align="center"> Hi there 👋 , I'm MAYUR NIGADE</h1>
+<h3 align="center">Software developer</h3>
 <h3 align="center">🌱 I’m currently learning CDAC PG-DAC</h3><br>
  <h4 align="center">📫 How to reach me: https://www.linkedin.com/in/mayur-nigade-558a18162</h4><br>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayurnigade&show_icons=true&locale=en&layout=compact" alt="mayurnigade" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayurnigade&show_icons=true&locale=en" alt="mayurnigade" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayurnigade&" alt="mayurnigade" /></p>
 <!--
 **mayurnigade/mayurnigade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
